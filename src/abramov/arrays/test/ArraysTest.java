@@ -7,6 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.Arrays;
 public class ArraysTest {
+	
 @Test
 void initialTest() {  
 	int [] ar1 = {1, 2, 3};
