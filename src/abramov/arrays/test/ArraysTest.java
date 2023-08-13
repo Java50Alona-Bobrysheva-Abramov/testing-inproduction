@@ -1,8 +1,7 @@
-package alona.arrays.test;
-
+package abramov.arrays.test;
 import org.junit.jupiter.api.Test;
 
-import alona.arrays.ArraysInt;
+import abramov.arrays.ArraysInt;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -19,7 +18,6 @@ void initialTest() {
 	ar2_3[0] = 10;
 	ar1[0] = 10;
 	assertArrayEquals(ar1, ar2); 
-	
 }
 @Test
 void copyOfIntTest() {

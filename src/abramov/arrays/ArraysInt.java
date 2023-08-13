@@ -1,4 +1,4 @@
-package alona.arrays;
+package abramov.arrays;
 
 import java.util.Arrays;
 
